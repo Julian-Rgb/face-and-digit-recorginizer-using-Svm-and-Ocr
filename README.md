@@ -1,5 +1,5 @@
 # Face-and-Digit-recorginizer-using-Svm-and-Ocr
-This Repository is made by Group one 
+This Repository is made by us
 # Our Group One Name : 
 1. Julian Witjaksono_F55120117
 2. Tiara Aurellya Mongi F55120023
