@@ -18,10 +18,12 @@ This Repository is made by us
 Tools dan Bahasa Pemrograman Yang Digunakan
 
 Tools: VSCode dengan ekstensi .ipynb
+        pyhcharm yang di gunakan untuk OCR
+        
 Bahasa: Python (Jupyter Notebook)
 Perlu Menginstall Package Yang Digunakan
 
-Numpy
+Numpy 
 Scikit-learn
 Sklearn
 OpenCV
