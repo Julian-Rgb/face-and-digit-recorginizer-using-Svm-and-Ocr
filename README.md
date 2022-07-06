@@ -1,5 +1,5 @@
 # Face-and-Digit-recorginizer-using-Svm-and-Ocr
-This Repository is made by Me
+This Repository is made by our team
 
 # Cara Penggunaan
 Tools dan Bahasa Pemrograman Yang Digunakan
